@@ -8,13 +8,6 @@ At its core, SmartStock exists to eliminate the common pain points in warehouse 
 
 ---
 
-
-## 📺 Video Demo
-
-See SmartStock in action! Watch the demo below:
-
-[![SmartStock Demo](https://res.cloudinary.com/dco2scymt/video/upload/v1757012724/SmartStock-demo_gtmiwm.jpg)](https://res.cloudinary.com/dco2scymt/video/upload/v1757012724/SmartStock-demo_gtmiwm.mp4)
-
 ## Key Features
 
 ### Inventory Management
