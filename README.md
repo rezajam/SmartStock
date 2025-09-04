@@ -7,6 +7,10 @@ The system was designed with versatility in mind, catering to businesses of all 
 At its core, SmartStock exists to eliminate the common pain points in warehouse operations: stockouts, overstocking, inefficient order processing, and lack of visibility into inventory value and movement patterns. By centralizing these functions in a user-friendly interface, we empower businesses to optimize their operations, reduce costs, and improve customer satisfaction through timely order fulfillment and accurate inventory management.
 
 ---
+## Video Demo
+Click to see the full video:
+
+[![SmartStock-demo](https://github.com/user-attachments/assets/a4fbde84-47ab-4440-9371-6141c51530a8)](https://res.cloudinary.com/dco2scymt/video/upload/v1757012724/SmartStock-demo_gtmiwm.mp4)
 
 ## Key Features
 
