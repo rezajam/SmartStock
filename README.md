@@ -96,12 +96,6 @@ npm run dev
 
 ---
 
-## Contribution
-
-- Make a new feature branch (naming convention: feature/feature-name)
-- Make changes
-- Commit changes with a descriptive message
-- Push changes to the feature branch
 - Make a pull request to the main branch
 - Wait for approval
 - Merge the pull request
